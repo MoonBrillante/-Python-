@@ -33,3 +33,20 @@ def download(url, user_agent = 'wawp', num_retries = 2):
     return html
 
 print(download('http://example.webscraping.com'))
+
+
+爬网站地图
+import re  # re是正则表达式的库文件
+
+def crawl_sitemap(url):
+    # download the sitemap file
+    sitemap = download(url)
+    # extract the sitemap links
+    links = re.findall('<loc>(.*?)</loc>', sitemap)
+    # download each link
+    for link in links:
+        # scrape html here
+        # ...
+        html = download(link)
+print(crawl_sitemap('http://example.webscraping.com/sitemap.xml'))
+
