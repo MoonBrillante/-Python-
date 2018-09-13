@@ -1,5 +1,6 @@
 # Practical-Web-Scraping-for-Data-Science 
-Author : Seppe vanden Brouck 
+Author : 
+         Seppe vanden Brouck 
 
          Bart Baesens
          
