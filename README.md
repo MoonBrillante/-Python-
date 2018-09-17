@@ -1,4 +1,4 @@
-# Practical-Web-Scraping-for-Data-Science 
-Author : Seppe vanden Brouck ， Bart Baesens (2018年版)
+# Practical-Web-Scraping
 
-这是学习笔记。 
+
+这是学习爬虫笔记。 
