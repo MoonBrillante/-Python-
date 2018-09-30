@@ -1,4 +1,4 @@
-# Practical-Web-Scraping
+#
+用Python写网站爬虫(Web Scraping with Python)   作者 Richard Lawson  
 
-
-这是学习爬虫笔记。 
+学习记录 
