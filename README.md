@@ -1,7 +1,7 @@
 #
-Web scraping with python 2nd  Ryan Mitchell
+Web scraping with python 
 
-用Python写网站爬虫(Web Scraping with Python)   作者 Richard Lawson  
+
 
 练习使用 : Window
 
